@@ -11,6 +11,7 @@ A simple and elegant cake shop landing page built with HTML and CSS.
 - HTML
 - CSS
 
+
 ## How to Run
 - Download or clone the repo
 - Open `index.html` in your browser
