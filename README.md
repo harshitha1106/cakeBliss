@@ -20,4 +20,3 @@ A simple and elegant cake shop landing page built with HTML and CSS.
 - Download or clone the repo
 - Open `index.html` in your browser
 Scroll down, write commit message: Add README and click Commit changes.
-- Updated README for Pull Shark badge PR #1
