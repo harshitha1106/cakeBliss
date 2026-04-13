@@ -15,6 +15,8 @@ A simple and elegant cake shop landing page built with HTML and CSS.
 - HTML
 - CSS
 
+## output 
+<img width="1872" height="896" alt="image" src="https://github.com/user-attachments/assets/627a52cd-1bc9-4354-9a50-26d22fe434ce" />
 
 ## How to Run
 - Download or clone the repo
@@ -23,7 +25,7 @@ Scroll down, write commit message: Add README and click Commit changes.
 - PR #1: Update for Pull Shark badge
 
 - ## About the Author
-- This project was created by Harshitha Pamidimukkala, a passionate developer from Chennai, India.
+- This project was created by Harshitha Pamidimukkala, a passionate developer from telangana, India.
 - 
 ## Contributing
 Contributions are welcome! Feel free to fork the repo and submit a pull request.
