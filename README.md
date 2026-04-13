@@ -21,3 +21,9 @@ A simple and elegant cake shop landing page built with HTML and CSS.
 - Open `index.html` in your browser
 Scroll down, write commit message: Add README and click Commit changes.
 - PR #1: Update for Pull Shark badge
+
+- ## About the Author
+- This project was created by Harshitha Pamidimukkala, a passionate developer from Chennai, India.
+- 
+## Contributing
+Contributions are welcome! Feel free to fork the repo and submit a pull request.
